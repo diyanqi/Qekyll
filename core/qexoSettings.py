@@ -32,13 +32,13 @@ DEFAULT_EMOJI = {"微笑": "🙂", "撇嘴": "😦", "色": "😍", "发呆": "�
 #     {"name": "BootCDN", "url": "https://cdn.bootcdn.net/ajax/libs/"},
 #     # {"name": "重庆邮电大学", "url": "https://mirrors.cqupt.edu.cn/cdnjs/ajax/libs/"},  # 更新不及时
 #     {"name": "南方科技大学", "url": "https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/"},
-#     {"name": "渺软公益 CDN", "url": "https://cdnjs.onmicrosoft.cn/ajax/libs/"}
+#     {"name": "渺软公益 CDN", "url": "https://cdnjs.webstatic.cn/ajax/libs/"}
 # ]
 
 DEFAULT_CDN = [
     {"name": "Jsdelivr", "url": "https://cdn.jsdelivr.net/npm/"},
     {"name": "Unpkg", "url": "https://unpkg.com/"},
-    # {"name": "渺软公益 CDN", "url": "https://npm.onmicrosoft.cn/"}
+    # {"name": "渺软公益 CDN", "url": "https://npm.webstatic.cn/"}
     # {"name": "初七云", "url": "https://cdn.chuqis.com/npm/"}
 ]
 
